@@ -4,3 +4,7 @@
 (progn (print "Hi")
        (print "This is")
        (print "Phaticusthiccy"))
+
+;; Hi
+;; This is
+;; Phaticusthiccy
