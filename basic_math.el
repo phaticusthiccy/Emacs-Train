@@ -1,3 +1,6 @@
+;; Phaticusthiccy Emacs-Train @2021 
+;; All Right Reserved
+
 (+ 4 5 1)  ; 10
 (- 9 2)    ; 7
 (- 9 2 3)  ; 4
