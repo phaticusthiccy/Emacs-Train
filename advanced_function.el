@@ -8,5 +8,8 @@
   (insert aa bb cc dd)
   )
 
-;; call it
+;; Call All
 (myfun "1" "2" "3" "4")
+
+;; Call without 3rd Parameter
+(myfun "myaa" "mybb" nil "mydd") ; 3rd Parameter will return nil(false)
